@@ -3,7 +3,7 @@
 
     <string name="app_name">Notification Mod</string>
     <string name="copyright_summary">Copyright © 2013 – vrthe1 (aNi)</string>
-    <string name="notification">Pouze notifikace/string>
+    <string name="notification">Pouze notifikace</string>
     <string name="qs">Pouze Rychlé nastavení</string>
     <string name="both">Obě</string>
     <string name="left">Levo</string>
@@ -22,6 +22,6 @@
     <string name="desc_aosppercent">Šířka AOSP stylu stažení.</string>
     <string name="title_aosptriggerloc">Umístění AOSP spouštěče</string>
     <string name="title_launcherhide">Skrýt ikonu (pro Launcher)</string>
-    <--! Přeložil WodokCZ -->
+    <!-- Přeložil WodokCZ -->
 
 </resources>
